@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <br />
         <p>
-         We're exicted to serve our amazing services to help & grow your business
+         We're excited to serve our excellent services to help & grow your business
         </p>
         <a
           className="App-link"
